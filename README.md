@@ -1,9 +1,7 @@
 # xrworld-releases
-이 저장소는 XRWorld 교사 앱 설치 파일 배포용입니다. 
-소스는 포함되어 있지 않습니다.
+이 저장소는 XRWorld 설치 파일 배포용입니다. 소스는 포함되어 있지 않습니다.
 
-XRWorld Class is an interactive platform built for collaborative classroom lessons with students.
+XRWorldDesktop-Setup-x.x.x.exe is a dedicated Windows program for leading many XRWorldLab headsets on site, such as a classroom, exhibition hall or training room. Materials and lists are prepared on the web.
 
-XRWorld Home is a dedicated app tailored for individual educators to manage their activities.
+XRWorldLab is the headset app for joining a host’s room and viewing the same scene together. In [XR Channels], with just the headset and no PC, you can watch your own lists and the XR lists other members publish to their channels, straight over the internet (Google sign-in; other members’ channels for paid members).
 
-XRWorld-Teacher-Setup-x.x.x.exe is a dedicated Windows program for controlling in-class XRWorld Class sessions and curating content viewable in XRWorld Home.
